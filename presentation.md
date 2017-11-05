@@ -3,7 +3,10 @@ layout: post
 title: Présentation du module SI1
 ---
 
-Le module SI1 vise à familiariser les étudiants avec le fonctionnement d'un ordinateur et d'un système d'exploitation, afin qu'ils puissent assurer un premier niveau de support système.
+Le module SI-1 - **Support système des accès utilisateurs**
+
+Ce module permet de construire les savoirs et savoir-faire liés au support et au maintien en condition opérationnelle de solutions techniques d’accès dans leur dimension « système ».
+On définit comme solution technique d’accès tout outil numérique, fixe ou nomade, constitué de composants matériels et logiciels, permettant à un utilisateur d’accéder à des services en ligne
 
 [Référentiel du BTS SIO](https://www.sup.adc.education.fr/btslst/referentiel/BTS_ServicesInformatiquesOrganisations.pdf)
 
@@ -13,6 +16,6 @@ Aucun.
 
 ## Environnement technique
 
-* Windows 7 SP1.
-* Linux Ubuntu 14.
-* VMWare Workstation 11.
+* Windows 10.
+* Linux debian 8.9.
+* VirtualBox 5.1
