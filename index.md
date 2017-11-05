@@ -3,13 +3,13 @@ layout: default
 title: Home
 ---
 
-# BTS SIO - Module SI1 : support système
+# BTS SIO - Lycée Chevrollier d'Angers - 
 
-Ressources pédagogiques du [lycée La Martinière Duchère](http://lmdsio.fr) de Lyon.
+Ressources pédagogique du module SI1 **Support système des accès utilisateurs** des étudiants de la classe 1TSSIO2
 
-Enseignants : Pascal Chemin, [Baptiste Pesquet](http://bpesquet.fr).
+Enseignant: Thierry Forest
 
-[Présentation du module SI1](presentation) - [Progression suivie pour la classe de B1SIO1](https://trello.com/b/2FycsKlx/progression-b1sio1) ([vue calendaire](https://trello.com/b/2FycsKlx/progression-b1sio1/calendar/)) - [Planning des exposés](http://doodle.com/poll/zt6v6t4riw5vcibd)
+[Présentation du module SI1](presentation) 
 
 ## Cours
 

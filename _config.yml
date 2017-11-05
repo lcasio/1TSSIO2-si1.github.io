@@ -6,6 +6,8 @@ permalink: /:categories/:title
 title: BTS SIO
 tagline: Module SI1
 authors:
+  - name: Lycée Chevrollier Angers
+    url: http://lcasio.fr
   - name: Lycée La Martinière Duchère
     url: 'http://lmdsio.fr'
 created: 
