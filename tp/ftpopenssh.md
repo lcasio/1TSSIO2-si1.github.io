@@ -3,7 +3,7 @@ layout: post
 title: Installation server / client FTP _ Utilisation d'openssh accès serveur par clé 
 ---
 
-# A faire
+# À faire
 
 - Noter toutes vos manipulations et documenter chaque commande utilisé dans un document texte que vous déposerez sur e-lyco au format pdf 
 - Aucune impression écran permise dans le document
@@ -28,6 +28,8 @@ Configurer virtualbox pour pouvoir communiquer avec votre poste de travail linux
 [Ubuntu 16.04](https://www.ubuntu.com/download/desktop)
 [Ubuntu fr](https://doc.ubuntu-fr.org/debutant)
 Recupérez l'image système iso puis vérifiez son [intégrité](https://doc.ubuntu-fr.org/tutoriel/comment_verifier_l_integrite_de_son_image_cd)
+[image iso](http://192.168.67.5/ubuntu-16.04.3-desktop-amd64.iso)
+[signature](http://ubuntu.univ-nantes.fr/ubuntu-cd/16.04.3/MD5SUMS)
 
 # Installation d'applications:
 
