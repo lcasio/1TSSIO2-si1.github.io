@@ -5,7 +5,7 @@ title: Home
 
 # BTS SIO - Lycée Chevrollier d'Angers - 
 
-Ressources pédagogique du module SI1 **Support système des accès utilisateurs** des étudiants de la classe 1TSSIO2
+Ressources pédagogiques du module SI1 **Support système des accès utilisateurs** des étudiants de la classe 1TSSIO2
 
 Enseignant: Thierry Forest
 
@@ -54,7 +54,7 @@ Enseignant: Thierry Forest
 * Partitionnement Windows 
 * Bios et multiboot , Installation centOS
 * Ligne de commande Linux 
-* Installation client/serveur FTP/SSH
+* [Installation client/serveur FTP/SSH](tp/ftpopenssh.md)
 * Accès par clé ssh 
 * Gestion d'une station linux
 * Gestion d'une station windows 
