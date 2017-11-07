@@ -60,3 +60,6 @@ Installation d'un serveur SSH sur ubuntu
 
 Test du fontionnement du serveur SSH avec le client windows
 
+## Pour aller plus loin
+
+https://www.ctrl.blog/entry/how-to-win10-ssh-service#section-mssshserv-enable
