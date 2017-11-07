@@ -9,7 +9,7 @@ title: Installation server / client FTP _ Utilisation d'openssh accès serveur p
 - Documentez chaque commande utilisés dans un document texte que vous déposerez sur e-lyco au format pdf 
 - Aucune impression écran n'est permise dans le document
 - format du document 
-        --Nom_prenom_TP_ubuntu.pdf 
+        __Nom_prenom_TP_ubuntu.pdf__
 
 # Objectifs:
 
