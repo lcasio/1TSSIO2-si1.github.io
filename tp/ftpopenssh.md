@@ -56,10 +56,10 @@ Utilisation d'un client SSH sur windows
 [Client ssh Windows](http://marc.terrier.free.fr/docputty/)
 
 Installation d'un serveur SSH sur ubuntu
-[Openssh -- Procedure Ubuntu](https://doc.ubuntu-fr.org/ssh) 
+[Openssh -- Procédure Ubuntu](https://doc.ubuntu-fr.org/ssh) 
 
 Test du fontionnement du serveur SSH avec le client windows
 
 ## Pour aller plus loin
 
-https://www.ctrl.blog/entry/how-to-win10-ssh-service#section-mssshserv-enable
+[Serveur SSH sur Windows 10](https://www.ctrl.blog/entry/how-to-win10-ssh-service#section-mssshserv-enable)
