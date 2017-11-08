@@ -29,6 +29,8 @@ title: Installation server / client FTP _ OPENSSH
 [Ubuntu 16.04](https://www.ubuntu.com/download/desktop)
 [Ubuntu fr](https://doc.ubuntu-fr.org/debutant)
 - Recupérez l'image système iso puis vérifiez son [intégrité](https://doc.ubuntu-fr.org/tutoriel/comment_verifier_l_integrite_de_son_image_cd)
+
+- [Utilitaire MD5 windows](http://www.etree.org/cgi-bin/counter.cgi/software/md5sum.exe)
 - [image iso](http://192.168.67.5/ubuntu-16.04.3-desktop-amd64.iso)
 - [signature](http://ubuntu.univ-nantes.fr/ubuntu-cd/16.04.3/MD5SUMS)
 
