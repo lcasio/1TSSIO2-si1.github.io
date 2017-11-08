@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Installation server / client FTP _ Utilisation d'openssh accès serveur par clé 
+title: Installation server / client FTP _ OPENSSH 
 ---
 
 # À faire
