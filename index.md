@@ -73,6 +73,7 @@ Enseignant: Thierry Forest
 * [La ligne de commande sous Windows](activities/ligne-commande-windows)
 * [Sauvegarde et restauration sous Windows 7](activities/sauvegarde-restauration-w7)
 
+* [Portfolio Etudiants](portfolio)
 ### Examens
 
 * Architecture Matérielle
