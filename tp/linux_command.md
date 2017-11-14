@@ -114,7 +114,7 @@ Se familiariser avec l'environement Linux et ses commandes.
     - apt-cache search keyWord: Recherche d'un mot-clé dans la base de données des paquets pour déterminer le nom précis du paquet correspondant au logiciel à installer
 - Autres distributions que Debian/Ubuntu: Autres méthodes d'installation
 
-
+[Source:](http://raphaello.univ-fcomte.fr/Linux/TP2.htm)
 
 ## La gestion des droits d'accès
 
