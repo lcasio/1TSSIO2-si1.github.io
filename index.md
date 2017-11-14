@@ -53,7 +53,7 @@ Enseignant: Thierry Forest
 * Ligne de commande DOS
 * Partitionnement Windows 
 * Bios et multiboot , Installation centOS
-* Ligne de commande Linux 
+* [Ligne de commande Linux](tp/linux_command.md) 
 * [Installation client/serveur FTP/SSH](tp/ftpopenssh.md)
 * Accès par clé ssh 
 * Gestion d'une station linux
