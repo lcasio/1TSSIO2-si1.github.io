@@ -20,19 +20,18 @@ Se familiariser avec l'environement Linux et ses commandes.
 ## Introduction
 
 * [Introduction à Linux](lessons/linux)
-    - création man, cd, ls, cat
+    - man, cd, ls, cat
 * [La ligne de commande sous Linux](lessons/ligne-commande-linux)
 * [Correspondance Linux/windows](http://raphaello.univ-fcomte.fr/Linux/TP3.htm)
 # Travail attendu 
   
-    - Votre premier fichier bash ou pas.
-        ce fichier doit :
-            - créer un repertoire 'info' 
-            - créer un fichier 'contenu' dans le repertoire info contenant la liste des fichier de votre répertoire personnel 
-            - afficher le contenu de votre fichier bash 
-            - afficher le contenu de la page manuel de motd
-    - Personalisation de votre environement 
-            Ajoutez l'alias ll="ls -l" à votre fichier .bash_profile
+- Votre premier fichier bash ou pas, ce fichier doit :            
+    - créer un repertoire 'info' 
+    - créer un fichier 'contenu' dans le repertoire info contenant la liste des fichier de votre répertoire personnel 
+    - afficher le contenu de votre fichier bash 
+    - afficher le contenu de la page manuel de motd
+- Personalisation de votre environement 
+    - Ajoutez l'alias ll="ls -l" à votre fichier .bash_profile
             Testez votre alias 
     
 ## Activités
@@ -40,7 +39,7 @@ Se familiariser avec l'environement Linux et ses commandes.
 * [La ligne de commande sous Linux](activities/ligne-commande-linux)
     
     - Faîtes les quatre exercices
-    - Créer un fichier 'Nom_prenom_exo_linux.pdf' contenant votre progression.
+    - Créer un fichier __Nom_prenom_exo_linux.pdf__ contenant votre progression.
 
 ## Accès à la documentation
 
@@ -119,8 +118,6 @@ Se familiariser avec l'environement Linux et ses commandes.
 ## La gestion des droits d'accès
 
 * [Droits d'accès](https://doc.ubuntu-fr.org/permissions)
-
-
 
 ## Pour aller plus loin 
 [Installer les services linux sous windows 10](http://www.laurentbloch.org/MySpip3/Installer-les-services-Linux-de-Windows-10-WSL)
