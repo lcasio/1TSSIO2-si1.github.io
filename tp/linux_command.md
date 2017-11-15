@@ -19,6 +19,8 @@ Se familiariser avec l'environement Linux et ses commandes.
 
 ## Introduction
 
+`sudo apt-get install manpages-fr manpages-fr-extra `
+
 * [Introduction à Linux](../lessons/linux)
     - man, cd, ls, cat
 * [La ligne de commande sous Linux](../lessons/ligne-commande-linux)
