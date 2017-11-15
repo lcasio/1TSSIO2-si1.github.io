@@ -30,7 +30,7 @@ Se familiariser avec l'environement Linux et ses commandes.
 - Votre premier fichier bash ou pas, ce fichier doit :            
     - créer un repertoire 'info' 
     - créer un fichier 'contenu' dans le repertoire info contenant la liste des fichier de votre répertoire personnel 
-    - afficher le contenu de votre fichier bash 
+    - afficher le contenu de votre fichier .bashrc 
     - afficher le contenu de la page manuel de motd
 - Personalisation de votre environement 
     - Ajoutez l'alias ll="ls -l" à votre fichier .bash_profile
