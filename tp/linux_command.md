@@ -19,9 +19,9 @@ Se familiariser avec l'environement Linux et ses commandes.
 
 ## Introduction
 
-* [Introduction à Linux](lessons/linux)
+* [Introduction à Linux](../lessons/linux)
     - man, cd, ls, cat
-* [La ligne de commande sous Linux](lessons/ligne-commande-linux)
+* [La ligne de commande sous Linux](../lessons/ligne-commande-linux)
 * [Correspondance Linux/windows](http://raphaello.univ-fcomte.fr/Linux/TP3.htm)
 # Travail attendu 
   
