@@ -36,7 +36,7 @@ Se familiariser avec l'environement Linux et ses commandes.
     
 ## Activités
 
-* [La ligne de commande sous Linux](activities/ligne-commande-linux)
+* [La ligne de commande sous Linux](../activities/ligne-commande-linux)
     
     - Faîtes les quatre exercices
     - Créer un fichier __Nom_prenom_exo_linux.pdf__ contenant votre progression.
